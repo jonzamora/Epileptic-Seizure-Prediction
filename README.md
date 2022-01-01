@@ -28,7 +28,7 @@ Our analysis will broadly consist of 4 main steps:
 
 For this task, the data comes from the "Physionet" database collected by the Children's Hospital of Boston. 
 
-The data consits of EEG recordings gathered from 10 children and young adults with medically resistant epilepsy.
+The data consists of EEG recordings gathered from 10 children and young adults with medically resistant epilepsy.
 
 For access to the specific `input` EEG data, download the file from this [link](https://drive.google.com/file/d/1ZUe5ZUXNt7gOXeeghL2w8iVTelE-gV1i/view) and place the `eeg_data_temples2_sample.h5` file in your `input/` folder.
 
